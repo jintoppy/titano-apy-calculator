@@ -49,6 +49,6 @@
     "stylelint": "^9.4.0",
     "uglify-es": "^3.3.10"
   },
-  "homepage": "https://bitbucket.org/pasqualevitiello/solid#readme",
+  "homepage": "https://github.com/jintoppy/titano-apy-calculator#readme",
   "main": ".eslintrc.js"
 }
